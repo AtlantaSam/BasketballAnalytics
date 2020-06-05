@@ -3,6 +3,7 @@
 
 ### Datasets:
 
-TeamGo - SAS Dataset of Standard Team Stats
+TeamGo - SAS Dataset of Standard Team Stats relating to offense
+TeamStop - SAS Dataset of Standard Team Stats relating to defense
 
 ### Programs:
