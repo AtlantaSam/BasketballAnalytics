@@ -4,6 +4,8 @@
 
 Software and Training.pdf
 
+Data Dictionary for CBB Datasets.pdf
+
 #### Datasets:
 
 TeamGo - SAS Dataset of Standard Team Stats relating to offense
