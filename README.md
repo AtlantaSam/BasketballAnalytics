@@ -2,9 +2,13 @@
 
 #### Information About SAS and JMP
 
-Software and Training.pdf
+Software and Training.pdf (informatoin on SAS/JMP software regarding downloads and training)
 
-Data Dictionary for CBB Datasets.pdf
+Data Dictionary for CBB Datasets.pdf 
+
+SlidesBAS.pdf (slides used in presentation)
+
+SASDocs.pdf (Links to SAS Documentation)
 
 #### Datasets:
 
