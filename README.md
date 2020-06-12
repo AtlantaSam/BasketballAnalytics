@@ -25,3 +25,39 @@ MiscStats - SAS Dataset of Advanced Team Stats
 PlayAdvStats - SAS Dataset of Advanced and Possession Stats for Players
 
 #### Programs:
+
+ExampleDataImport.sas
+
+ImportTeamGo.sas (standard offensive stats for teams - identified as Team Per Game Stats on Basketball-Reference.com)
+
+ImportTeamStop.sas (standard offensive stats for opponents - identified as Opponent Per Game Stats)
+
+ImportMiscStats.sas (Advanced Stats identified as Miscellaneous Stats)
+
+ImportPlayerPossStats.sas (Possession stats for players - 100 possessions - identified as Player Per 100 Poss)
+
+ImportTeamPossStats.sas (Possession stats for teams - 100 possessions - identified as Team Per 100 Poss Stats)
+
+ImportCBB (Import CBB data downloaded from Kaggle - location can be found in slidesBAS.pdf)
+
+ExploratoryDataAnalysis.sas (program used to explore data after initial data import)
+
+PythanThmForBasketball.sas (create and test interpretations of Pythag Thm for Basketball)
+
+ShootingMetrics.sas (create and test metrics regarding shooting percentages)
+
+ModelingBasketballData.sas (building models relative to winning games with various interpretations of data)
+
+EvaluatePlayers.sas (use knowledge gained in "ModelingBasketballData" to seek out players that meet a criteria)
+
+CBBBracketologySeeding (build model to seed teams in the NCAA tournament)
+
+CBBBracketolotyPickingNCAABChamp (using models to pick NCAA Champion)
+
+CBBBracketologyPickingML (using machine learning models to pick NCAA champ)
+
+score.sas (score code)
+
+score2.sas (score code)
+
+seed.sas (score code)
